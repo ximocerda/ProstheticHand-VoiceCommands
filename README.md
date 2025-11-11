@@ -15,7 +15,7 @@ The dataset is created entirely using **open-source tools**, and the generation 
 
 Click the badge below to open and run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ximocerda/ProstheticHand-VoiceCommands/blob/main/Wake_Word_Generator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ximocerda/ProstheticHand-VoiceCommands/blob/main/Wake_Word_generator.ipynb)
 
 ---
 
